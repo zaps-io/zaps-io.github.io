@@ -7,7 +7,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet" />
-    <script type="module" crossorigin src="./assets/index-Bdk9cULt.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-CZD2U3IK.css" />
   </head>
   <body>
@@ -20,10 +19,25 @@
         <div id="pips"><i></i><i></i><i></i></div>
         <div id="prompt"></div>
       </div>
-      <div id="title"></div>
+      <div id="title">
+        <img alt="" />
+      </div>
       <div id="end" class="hidden">
+        <img alt="" />
         <div id="grade"></div>
       </div>
     </div>
+    <script type="module">
+      const parts = await Promise.all(
+        Array.from({ length: 8 }, (_, i) =>
+          fetch("./assets/p" + i + ".js.txt").then((r) => {
+            if (!r.ok) throw new Error("missing chunk " + i);
+            return r.text();
+          })
+        )
+      );
+      const blob = new Blob(parts, { type: "text/javascript" });
+      await import(URL.createObjectURL(blob));
+    </script>
   </body>
 </html>
