@@ -1,1 +1,2 @@
-LOAD_FROM_/tmp/push_payload.json_files_1
+:root { --red: #e63225; --charcoal: #1e1e24; --amber: #e89a2e; --cyan: #00d4f5; --cream: #f5f0e8; --steel: #b8bcc0; --ink: #121217; --panel: #26262e; }
+.map-frame.zoomed .city-node:not(.selected) .compound { visibility: hidden; }
