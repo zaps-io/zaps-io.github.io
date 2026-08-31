@@ -1,1 +1,1 @@
-LOAD_FROM_/tmp/ns-js-only.txt
+var en=Object.defineProperty;var tn=(e,t,n)=>t in e?en(e,t,{enumerable:!0,configurable:!0,writable:!0,value:n}):e[t]=n;SEE_FILE_/tmp/ns-js-only.txt
