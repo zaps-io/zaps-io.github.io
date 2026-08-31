@@ -1,1 +1,1 @@
-PLACEHOLDER_STATION
+LOAD_FROM_FILE:/tmp/ns-parts/07.json
