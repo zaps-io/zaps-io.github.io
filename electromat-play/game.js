@@ -1,1 +1,1 @@
-PLACEHOLDER_GAME
+USE_FILE_/workspace/game.js
