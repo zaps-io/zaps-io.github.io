@@ -1,4 +1,1 @@
-:root { --red: #e63225; }
-.map-frame.zoomed .city-node:not(.selected) .compound {
-  visibility: hidden;
-}
+LOAD_FROM_/tmp/push_payload.json_files_1
