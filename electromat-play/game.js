@@ -1,1 +1,1 @@
-PLACEHOLDER_LOAD_FROM_DISK
+SEE_FILE_/tmp/empire-dist/game.js
