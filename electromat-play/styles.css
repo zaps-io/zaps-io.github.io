@@ -1,6 +1,1 @@
-:root {
-  --red: #e63225;
-}
-.map-frame.zoomed .city-node:not(.selected) .compound {
-  visibility: hidden;
-}
+LOAD_FROM_/workspace/styles.css
