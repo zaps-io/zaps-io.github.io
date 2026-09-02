@@ -1,8 +1,8 @@
-# Lot EV hull (`ev-lot.glb`)
+# Lot EV hull (`ev-sedan.glb`)
 
-`ev-lot.glb` is an original in-repo sedan hull authored for Electromat Night Shift
-(smooth Taycan-like greenhouse, CC0). It replaces the earlier Khronos CarConcept
-sports-coupe so the default startNight camera reads a transparent cabin instead
-of painted C-pillar sails.
+`ev-sedan.glb` is an original in-repo three-box sedan (hood / cabin / painted
+trunk deck) authored for Electromat Night Shift, released CC0. It replaces
+`ev-lot.glb` (the rejected coupe-with-a-dome). No third-party mesh is bundled.
 
-No third-party mesh is bundled in this file.
+Glass stops at the C-pillar. The painted deck and continuous tail bar sit
+behind that pillar. Wheel arches are circular wraps, not torus fenders.
