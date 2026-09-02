@@ -1,10 +1,8 @@
-# CarConcept (lot EV hull)
+# Lot EV hull (`ev-lot.glb`)
 
-`ev-lot.glb` is the Khronos glTF Sample Asset **CarConcept**.
+`ev-lot.glb` is an original in-repo sedan hull authored for Electromat Night Shift
+(smooth Taycan-like greenhouse, CC0). It replaces the earlier Khronos CarConcept
+sports-coupe so the default startNight camera reads a transparent cabin instead
+of painted C-pillar sails.
 
-- Source: https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept
-- Authors: Eric Chadwick, Darmstadt Graphics Group GmbH (2024); started from a public-domain model by Unity Fan
-- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Copyright (from asset): © 2015, Khronos Group, Khronos logo. © 2017, Khronos Group, 3D Commerce logo.
-
-Khronos trademarks/logos are excluded from that grant and are hidden at load time.
+No third-party mesh is bundled in this file.
