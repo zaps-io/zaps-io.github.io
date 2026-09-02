@@ -1,6 +1,7 @@
-# Lot EV hull (`ev-sedan-shoulder.glb`)
+# Lot EV hull (`ev-sedan-haunch.glb`)
 
-`ev-sedan-shoulder.glb` is an original in-repo sedan (CC0) for Electromat Night Shift.
-Keeps the notch1 rear (sloped glass, painted C-pillars, short body-color deck,
-one fascia bar) and adds a Taycan side: belt crease, inset greenhouse, taut
-round arches, spoke rims. Replaces `ev-sedan-notch.glb`. No third-party mesh.
+`ev-sedan-haunch.glb` is an original in-repo sedan (CC0) for Electromat Night Shift.
+Keeps the notch1 closed rear (sloped glass, painted C-pillars, short body-color
+lid, one fascia bar) and changes the visible side outline: circular arch holes,
+stepped greenhouse/haunch, belt highlight, dark spoke rims. Replaces
+`ev-sedan-shoulder.glb`. No third-party mesh.
