@@ -1,7 +1,7 @@
-# Lot EV hull (`ev-sedan-haunch.glb`)
+# Lot EV hull (`ev-sedan-bulge.glb`)
 
-`ev-sedan-haunch.glb` is an original in-repo sedan (CC0) for Electromat Night Shift.
+`ev-sedan-bulge.glb` is an original in-repo sedan (CC0) for Electromat Night Shift.
 Keeps the notch1 closed rear (sloped glass, painted C-pillars, short body-color
-lid, one fascia bar) and changes the visible side outline: circular arch holes,
-stepped greenhouse/haunch, belt highlight, dark spoke rims. Replaces
-`ev-sedan-shoulder.glb`. No third-party mesh.
+lid, one fascia bar). Side outline from the default 3/4 camera: plan-view rear
+fender wider than the door, silver multi-spoke rims, inset greenhouse, rounded
+rear corners. Replaces `ev-sedan-haunch.glb`. No third-party mesh.
