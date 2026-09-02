@@ -1,8 +1,7 @@
-# Lot EV hull (`ev-sedan.glb`)
+# Lot EV hull (`ev-sedan-deck.glb`)
 
-`ev-sedan.glb` is an original in-repo three-box sedan (hood / cabin / painted
-trunk deck) authored for Electromat Night Shift, released CC0. It replaces
-`ev-lot.glb` (the rejected coupe-with-a-dome). No third-party mesh is bundled.
+`ev-sedan-deck.glb` is an original in-repo notchback sedan (CC0) for
+Electromat Night Shift. Three stacked rear surfaces: sloped rear window,
+painted trunk-lid top, short fascia with one continuous tail bar.
 
-Glass stops at the C-pillar. The painted deck and continuous tail bar sit
-behind that pillar. Wheel arches are circular wraps, not torus fenders.
+It replaces `ev-sedan.glb` / `ev-lot.glb`. No third-party mesh is bundled.
